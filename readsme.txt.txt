@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THIS IS MAIN BRANCH
+=======
+THIS IS DEV
+>>>>>>> DEV
